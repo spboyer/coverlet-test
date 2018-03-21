@@ -1,0 +1,15 @@
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.Tests.deps.json
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.Tests.runtimeconfig.json
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.Tests.runtimeconfig.dev.json
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.Tests.dll
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.Tests.pdb
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.dll
+/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.pdb
+/Users/shayneboyer/play/cover/PrimeService.Tests/obj/Debug/netcoreapp2.0/PrimeService.Tests.csproj.CoreCompileInputs.cache
+/Users/shayneboyer/play/cover/PrimeService.Tests/obj/Debug/netcoreapp2.0/PrimeService.Tests.AssemblyInfoInputs.cache
+/Users/shayneboyer/play/cover/PrimeService.Tests/obj/Debug/netcoreapp2.0/PrimeService.Tests.AssemblyInfo.cs
+/Users/shayneboyer/play/cover/PrimeService.Tests/obj/Debug/netcoreapp2.0/PrimeService.Tests.dll
+/Users/shayneboyer/play/cover/PrimeService.Tests/obj/Debug/netcoreapp2.0/PrimeService.Tests.pdb

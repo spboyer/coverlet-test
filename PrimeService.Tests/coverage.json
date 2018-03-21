@@ -1,0 +1,16 @@
+{
+ "/Users/shayneboyer/play/cover/PrimeService.Tests/bin/Debug/netcoreapp2.0/PrimeService.dll": {
+  "/Users/shayneboyer/play/cover/PrimeService/PrimeService.cs": {
+   "Prime.Services.PrimeService": {
+    "System.Boolean Prime.Services.PrimeService::IsPrime(System.Int32)": {
+     "8": 4,
+     "9": 4,
+     "10": 4,
+     "11": 4,
+     "13": 0,
+     "14": 0
+    }
+   }
+  }
+ }
+}
