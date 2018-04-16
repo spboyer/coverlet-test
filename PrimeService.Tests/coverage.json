@@ -3,12 +3,30 @@
   "/Users/shayneboyer/play/cover/PrimeService/PrimeService.cs": {
    "Prime.Services.PrimeService": {
     "System.Boolean Prime.Services.PrimeService::IsPrime(System.Int32)": {
-     "8": 4,
-     "9": 4,
-     "10": 4,
-     "11": 4,
-     "13": 0,
-     "14": 0
+     "8": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "9": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "10": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "11": {
+      "Hits": 4,
+      "IsBranchPoint": false
+     },
+     "13": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "14": {
+      "Hits": 4,
+      "IsBranchPoint": true
+     }
     }
    }
   }

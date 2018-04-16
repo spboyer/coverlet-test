@@ -1,8 +1,0 @@
-/Users/shayneboyer/play/cover/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
-/Users/shayneboyer/play/cover/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
-/Users/shayneboyer/play/cover/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
-/Users/shayneboyer/play/cover/PrimeService/obj/Debug/netstandard2.0/PrimeService.csproj.CoreCompileInputs.cache
-/Users/shayneboyer/play/cover/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
-/Users/shayneboyer/play/cover/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.cs
-/Users/shayneboyer/play/cover/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
-/Users/shayneboyer/play/cover/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
